@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: XL Developer
-Plugin URI: http://www.ojeel.com
+Plugin URI: https://www.ojeel.com
 Description: Core Application by Ojeel. Its performs many importants and core functionalities for your website. Don't Deactivate or Delete this plugin else your site may not work properly. Please contact us for any assistance.
 Version: 1.0
 Author: Mostafijur Rahaman
